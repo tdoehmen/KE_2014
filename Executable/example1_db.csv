@@ -1,0 +1,4 @@
+sewer_identifier;material;profile_type;wastewater_type;construction_year;dimension_mm;length_m;depth;in_groundwater;water_protection_area;surface_height_a;sewer_floor_a;surface_height_b;sewer_floor_b;land_use
+301002;B_CONCRETE;CIRCLE;MIXED;1980;400;50;2;false;true;116.05;114.05;115;112.52;INDUSTRIAL_GROUND
+91192000;B_CONCRETE;CIRCLE;MIXED;1970;700;42;2.5;false;false;118.35;116.35;118;115.32;STREET
+91203000;B_CONCRETE;CIRCLE;MIXED;1970;700;42;2.5;false;false;118.35;116.35;118;115.32;STREET
